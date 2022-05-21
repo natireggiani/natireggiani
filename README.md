@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mi nombre es Natalia Reggiani, soy Lic. en Economia de profesión y Desarrolladora Web por vacación. 
+Mi nombre es Natalia Reggiani, soy Lic. en Economia de profesión y Desarrolladora Web por vocación. 
 
 Acabo de finalizar la carrera de Desarrollo Frontend React Js en Coderhouse, quedando tanto en el curso de Desarrollo Web como en el de React en el Top10.
 
