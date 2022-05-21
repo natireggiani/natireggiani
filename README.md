@@ -11,4 +11,3 @@ Comencé a programar por curiosidad y descubrí en ello mi pasión. Siempre con 
 En este repositorio están mis proyectos hasta el momento. 
 
 
-![4000_3_07](https://user-images.githubusercontent.com/94913533/169665257-64496de7-4089-4903-bb4b-69e6bf46c4d1.jpg)
